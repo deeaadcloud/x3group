@@ -1,0 +1,14 @@
+
+{
+  "dependencies": {
+    "swiper": "^8.3.1"
+  },
+  "name": "Swiper - Mousewheel control",
+  "name": "Swiper - Custom plugin",
+  "tags": [
+    "swiper"]
+
+    
+}
+
+
